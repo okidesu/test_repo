@@ -5,7 +5,7 @@
 
 
 
-int main( const char* argv[],int argc )
+int main( int argc,const char* argv[] )
 {
 	printf( "hello world !\n" );
 
