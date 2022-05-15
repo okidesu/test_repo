@@ -7,6 +7,7 @@
 int main( int argc,const char* argv[] )
 {
 	printf( "hello world from tinker !\n" );
+  printf( "see if the tag moves along\n");
 
 	return 0;	
 }
